@@ -1,0 +1,58 @@
+[
+    {
+        "id": "1",
+        "name": "LIKE STYLE ",
+        "desc":"Women Pink Shoulder Bag - Regular Size ",
+        "price": "423",
+        "image": "/images/1.png"
+    },
+    {
+        "id": "2",
+        "name": "LANCETTI",
+        "desc":"Lancetti Moda Struttura Beige Soft Handbag",
+        "price": "521",
+        "image": "/images/2.png"
+    },
+    {
+        "id": "3",
+        "name": "RARE FIND",
+        "desc":"Ash grey color split leather bag",
+        "price": "442",
+        "image": "/images/3.png"
+    },
+    {
+        "id": "4",
+        "name": "ZOYAE BAZAR",
+        "desc":"Zoyaebazar Women Pink Hand Bag",
+        "price": "795",
+        "image": "/images/4.png"
+    },
+    {
+        "id": "5",
+        "name": "BRIDGE ITALIAN",
+        "desc":"Small Italian Leather Drawstring Pocket Handbag Dusty Rose/gold",
+        "price": "600",
+        "image": "/images/5.jpg"
+    },
+    {
+        "id": "6",
+        "name": "ESKE EMMA SATCHEL",
+        "desc":"Eske handbags and accessories are made from genuine leather ",
+        "price": "502",
+        "image": "/images/6.jpg"
+    },
+    {
+        "id": "7",
+        "name": "AURA SAFFIANO",
+        "desc":"A lightweight, flexible container ",
+        "price": "662",
+        "image": "/images/7.png"
+    },
+    {
+        "id": "8",
+        "name": "GAUGE MACHINE ",
+        "desc":"A Women Satchel Bag with Detachable Strap",
+        "price": "462",
+        "image": "/images/8.jpg"
+    }
+]
