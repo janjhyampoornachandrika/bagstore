@@ -1,7 +1,9 @@
 .Footer-container{
     display: flex;
     /* background-image: linear-gradient(to bottom right, green,pink,blue); */
-    background-color: palegoldenrod;
+    /* background-color:pink; */
+    /* background-image: linear-gradient(180deg,pink); */
+    background-image: linear-gradient(180deg,pink,#ADD8E6);
     color:black;
     justify-content: space-around;;
     padding: 30px;
@@ -12,6 +14,7 @@
 
 .Footer-bottom{
     padding: 30px;
-    background-color: palegoldenrod;
+    /* background-color: pink; */
+    background-image: linear-gradient(180deg,#ADD8E6,pink);
     color:black;
 }
